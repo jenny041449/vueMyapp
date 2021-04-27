@@ -1,0 +1,137 @@
+let productALL = [{
+        id: "1",
+        title: "馬卡龍蛋糕",
+        price: "1360",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c1.jpg"),
+        category: "cake",
+    },
+
+    {
+        id: "2",
+        title: "情人節蛋糕",
+        price: "1980",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c4.jpg"),
+        category: "cake",
+    },
+    {
+        id: "3",
+        title: "草莓奶油蛋糕",
+        price: "1280",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c5.jpg"),
+        category: "cake",
+    },
+    {
+        id: "4",
+        title: "抹茶花開蛋糕",
+        price: "1280",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c7.jpg"),
+        category: "cake",
+    },
+
+    {
+        id: "5",
+        title: "小莓果蛋糕",
+        price: "280",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c9.jpg"),
+        category: "cake",
+    },
+    {
+        id: "6",
+        title: "草莓奶油迷你蛋糕",
+        price: "280",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c2.jpg"),
+        category: "cake",
+    },
+    {
+        id: "7",
+        title: "莓果塔蛋糕",
+        price: "1980",
+        count: 0,
+        imgUrl: require("@/assets/image/cake02.jpeg"),
+        category: "cake",
+    },
+
+    {
+        id: "8",
+        title: "招牌巧克力蛋糕",
+        price: "1080",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c10.jpg"),
+        category: "chocolate",
+    },
+    {
+        id: "9",
+        title: "黑巧克力塔",
+        price: "680",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c8.jpg"),
+        category: "chocolate",
+    },
+    {
+        id: "10",
+        title: "熔岩巧克力餅乾",
+        price: "100",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c3.jpg"),
+        category: "chocolate",
+    },
+    {
+        id: "11",
+        title: "熔岩巧克力",
+        price: "680",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c10.jpg"),
+        category: "chocolate",
+    },
+
+    {
+        id: "12",
+        title: "夢幻馬卡龍",
+        price: "680",
+        count: 0,
+        imgUrl: require("@/assets/image/bg06.jpg"),
+        category: "macaron",
+    },
+
+    {
+        id: "13",
+        title: "奶油堂4馬卡龍",
+        price: "580",
+        imgUrl: require("@/assets/image/cake22.png"),
+        category: "macaron",
+    },
+
+    {
+        id: "14",
+        title: "招牌巧克力餅乾",
+        price: "180",
+        count: 0,
+        imgUrl: require("@/assets/image/cake10.png"),
+        category: "cookie",
+    },
+
+    {
+        id: "15",
+        title: "角落生物餅乾",
+        price: "550",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c16.jpg"),
+        category: "cookie",
+    },
+
+    {
+        id: "16",
+        title: "奶油巧克力餅乾",
+        price: "280",
+        count: 0,
+        imgUrl: require("@/assets/image/product-c15.jpg"),
+        category: "cookie",
+    },
+]
+exports.productALL = productALL;
